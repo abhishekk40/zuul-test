@@ -1,4 +1,4 @@
-- project:
+- project: abhishekk40/zuul-test
     check:
       jobs:
         - noop
